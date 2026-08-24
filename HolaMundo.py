@@ -1,3 +1,3 @@
-nombre = 'todos'
+nombre = 'todes'
 
 print("Hola a " + nombre)
